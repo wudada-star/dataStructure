@@ -1,0 +1,4 @@
+﻿  5.cpp
+E:\code\数据结构code\5\5.cpp(23,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\code\数据结构code\5\5.cpp(28,11): warning C4018: “<”: 有符号/无符号不匹配
+  5.vcxproj -> E:\code\数据结构code\赫夫曼树的构建与编码\Debug\5.exe

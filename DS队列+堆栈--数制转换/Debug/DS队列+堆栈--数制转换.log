@@ -1,0 +1,4 @@
+﻿  DS队列+堆栈--数制转换.cpp
+E:\code\数据结构code\DS队列+堆栈--数制转换\DS队列+堆栈--数制转换.cpp(83,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\code\数据结构code\DS队列+堆栈--数制转换\DS队列+堆栈--数制转换.cpp(110,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  DS队列+堆栈--数制转换.vcxproj -> E:\code\数据结构code\DS队列之银行排队\Debug\DS队列+堆栈--数制转换.exe

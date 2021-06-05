@@ -1,0 +1,8 @@
+﻿  DS栈—波兰式，逆波兰式.cpp
+E:\code\数据结构code\DS栈—波兰式，逆波兰式\DS栈—波兰式，逆波兰式.cpp(158,16): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+E:\code\数据结构code\DS栈—波兰式，逆波兰式\DS栈—波兰式，逆波兰式.cpp(158,12): warning C4309: “参数”: 截断常量值
+  DS栈—波兰式，逆波兰式.vcxproj -> E:\code\数据结构code\DS堆栈--逆序输出（STL栈使用）\Debug\DS栈—波兰式，逆波兰式.exe

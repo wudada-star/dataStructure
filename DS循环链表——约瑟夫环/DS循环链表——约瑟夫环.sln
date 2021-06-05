@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DS循环链表——约瑟夫环", "DS循环链表——约瑟夫环.vcxproj", "{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DS单链表—删除重复元素", "..\DS单链表—删除重复元素\DS单链表—删除重复元素.vcxproj", "{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DS双向链表—前驱后继", "..\DS双向链表—前驱后继\DS双向链表—前驱后继.vcxproj", "{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Debug|x64.ActiveCfg = Debug|x64
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Debug|x64.Build.0 = Debug|x64
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Debug|x86.Build.0 = Debug|Win32
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Release|x64.ActiveCfg = Release|x64
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Release|x64.Build.0 = Release|x64
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Release|x86.ActiveCfg = Release|Win32
+		{80BCAF90-BD2E-4F6D-8573-6AFEE52FD4DB}.Release|x86.Build.0 = Release|Win32
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Debug|x64.ActiveCfg = Debug|x64
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Debug|x64.Build.0 = Debug|x64
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Debug|x86.Build.0 = Debug|Win32
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Release|x64.ActiveCfg = Release|x64
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Release|x64.Build.0 = Release|x64
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Release|x86.ActiveCfg = Release|Win32
+		{F51E2B62-A113-4B00-8EC9-7CB7C50014CA}.Release|x86.Build.0 = Release|Win32
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Debug|x64.ActiveCfg = Debug|x64
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Debug|x64.Build.0 = Debug|x64
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Debug|x86.Build.0 = Debug|Win32
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Release|x64.ActiveCfg = Release|x64
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Release|x64.Build.0 = Release|x64
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Release|x86.ActiveCfg = Release|Win32
+		{E3CC03D6-A676-49A9-8053-CEAAC651E3CE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C51C1E00-0E55-4371-A14C-84D749F61583}
+	EndGlobalSection
+EndGlobal

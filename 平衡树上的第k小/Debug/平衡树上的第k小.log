@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  平衡树上的第k小.cpp
+E:\code\数据结构code\平衡树上的第k小\平衡树上的第k小.cpp(4,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\code\数据结构code\平衡树上的第k小\平衡树上的第k小.cpp(148,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  平衡树上的第k小.vcxproj -> E:\code\数据结构code\DS二叉平衡树构建\Debug\平衡树上的第k小.exe
